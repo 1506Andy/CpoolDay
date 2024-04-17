@@ -1,2 +1,3 @@
 https://zestedesavoir.com/tutoriels/755/le-langage-c-1/ -> cours
 https://www.codingame.com/start/fr/ -> exercices
+https://github.com/fwuensche/42-exam-miner -> exercices style piscine epitech
